@@ -1,0 +1,29 @@
+body{
+  background-color: Pink;
+
+}
+
+div{
+  background-color: #ACF592;
+  margin: 20px;
+}
+
+#header{
+  height: 100px;
+}
+
+#principal{
+  width: 45%;
+
+
+
+}
+#lateral{
+  width: 45%;
+float: right;
+
+}
+#peu{
+  height: 100px;
+
+}
